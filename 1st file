@@ -4,8 +4,6 @@
       this is my demo page
 </title>
 <body>
-<p>
-my name is sai
-</p>
+<h1>this is heading of my page</h1>
 </body>
 </html>
